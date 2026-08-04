@@ -91,7 +91,7 @@ I enjoy working across different domains, from writing logic for hardware microc
 **Software Engineering & AI**
 * **tk.chill Shop:** A specialized digital distribution platform designed for the flight simulation community. It serves as a central hub for providing high-fidelity aircraft add-ons, custom liveries, and premium content tailored for Microsoft Flight Simulator 2020. 
 * **tk.chill App (Desktop Client & Installer):** A high-performance, custom-built desktop application engineered using Electron. It acts as the seamless delivery mechanism and dedicated installer for digital assets purchased from the tk.chill shop, ensuring a flawless user experience from checkout to cockpit.
-* **tk.chillbot:** An advanced, highly-available Discord bot deployed on the Render cloud infrastructure. It automates community management, integrates technical workflows (such as GitHub chart synchronization), and is continuously monitored via UptimeRobot. The project also explores complex network integrations, including VATSIM SSO architecture.
+* **tk.chillbot:** An advanced, highly-available Discord bot deployed on the Render cloud infrastructure. It automates community management, integrates technical workflows (such as GitHub chart synchronization). The project also explores complex network integrations, including VATSIM SSO architecture.
 * **Smart Web Tools:** Exploring and developing dynamic web utilities integrated directly with the Gemini and OpenAI APIs to leverage large language models for next-generation capabilities.
 
 **Aviation Simulation & Systems**
