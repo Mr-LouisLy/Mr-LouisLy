@@ -2,7 +2,7 @@
 
 `Software Developer` | `Hardware Engineer` | `Full-Stack Developer` | `IoT & Hardware Logic Designer`| `System Architect` | `Hardware & Robotics Engineer`| `AI Integrator`
 
-Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietnam. I have a strong drive for building practical, high-impact software and designing hardware systems. My work ranges from full-stack web tools and Discord bots to intricate robotics engineering. I'm also deeply passionate about applying technology to aviation simulation and producing high-fidelity visual media. 
+Hi there! I'm a Can Tho-based tech innovator who combines deep-level engineering with an endless curiosity for how things work. From developing automated aviation weather systems (AWOS) to engineering competitive robotics logic, my passion lies in turning raw ideas into tangible technologies. When I'm not in the IDE or wiring circuits, you can find me exploring high-fidelity photography.
 
 ---
 
