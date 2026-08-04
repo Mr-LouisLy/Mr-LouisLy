@@ -2,7 +2,7 @@
 
 `Software Developer` | `Hardware Engineer` | `Aviation Geek` | `Visual Storyteller`
 
-Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietnam. Even as a 9th-grade student, I have a strong drive for building practical, high-impact software and designing hardware systems. My work ranges from full-stack web tools and Discord bots to intricate robotics engineering. I'm also deeply passionate about applying technology to aviation simulation and producing high-fidelity visual media. 
+Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietnam. I have a strong drive for building practical, high-impact software and designing hardware systems. My work ranges from full-stack web tools and Discord bots to intricate robotics engineering. I'm also deeply passionate about applying technology to aviation simulation and producing high-fidelity visual media. 
 
 ---
 
