@@ -104,12 +104,13 @@ I enjoy working across different domains, from writing logic for hardware microc
 
 ---
 
-### 🎨 Creative & Academic Achievements
+### 🏆 Academic Awards & Achievements
 
-When I'm not coding or wiring circuits, I'm pushing myself in academics and creative fields.
+When I'm not coding or wiring circuits, I'm competing at the highest levels in international mathematics and robotics.
 
-* **StemCo Math Gold Medalist:** Awarded the prestigious Gold Medal in the international StemCo Math 2026 competition held at the National University of Singapore.
-* **Professional Photography & Videography:** Utilizing a highly capable gear setup featuring a Sony A7 Mark V, Tamron 17-70mm lens;Sony Fe 70-200mm F2.8;.... I focus strictly on color science, image quality, and technical composition to produce striking visual content.
+* **National Robotics Champion:** Awarded **1st Prize** at the National Robotics Competition, demonstrating advanced hardware logic design and system integration.
+* **StemCo Math Gold & 3rd Globally:** Achieved the **Gold Medal** and secured **3rd Place Worldwide** in the international StemCo Math 2026 competition held at the National University of Singapore.
+* **Hong Kong International Math Champion:** Crowned **Champion** at the Hong Kong International Math Olympiad, showcasing exceptional analytical and problem-solving skills.
 
 ---
 
