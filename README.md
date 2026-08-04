@@ -1,15 +1,34 @@
 # Ly Thuc Duy (Louis Ly)
 
-`Software Developer` | `Hardware Engineer` | 
+`Software Developer` | `Hardware Engineer` | `Full-Stack Developer` | `IoT & Hardware Logic Designer`| `System Architect` | `Hardware & Robotics Engineer`| `AI Integrator`
 
 Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietnam. I have a strong drive for building practical, high-impact software and designing hardware systems. My work ranges from full-stack web tools and Discord bots to intricate robotics engineering. I'm also deeply passionate about applying technology to aviation simulation and producing high-fidelity visual media. 
 
 ---
 
-### 📊 Louis's GitHub Stats
+### 🛠️ Core Technologies & Arsenal
 
-![GitHub Stats](https://personal-readme-stats-one.vercel.app/api?username=Mr-LouisLy&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://personal-readme-stats-one.vercel.app/api/top-langs/?username=Mr-LouisLy&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  
+  <!-- Hardware & Simulation -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Microsoft_Flight_Simulator-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="MSFS 2020" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <br>
+
+  <!-- Cloud, API & Tools -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
