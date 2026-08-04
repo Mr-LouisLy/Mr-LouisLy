@@ -59,7 +59,7 @@ When I'm not coding or wiring circuits, I'm pushing myself in academics and crea
 
 I'm always open to discussing new ideas, collaborating on tech projects, or chatting about aviation.
 
-* **Email:** [lthucduy@gmail.com]
+* **Email:** lthucduy@gmail.com
 * **GitHub:** [github.com/Mr-LouisLy](https://github.com/Mr-LouisLy)
 
 *Thanks for stopping by! I'm constantly learning and building, so stay tuned for more.*
