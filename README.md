@@ -1,6 +1,6 @@
 # Ly Thuc Duy (Louis Ly)
 
-`Software Developer` | `Hardware Engineer` | `Aviation Geek` | `Visual Storyteller`
+`Software Developer` | `Hardware Engineer` | 
 
 Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietnam. I have a strong drive for building practical, high-impact software and designing hardware systems. My work ranges from full-stack web tools and Discord bots to intricate robotics engineering. I'm also deeply passionate about applying technology to aviation simulation and producing high-fidelity visual media. 
 
