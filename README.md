@@ -43,7 +43,7 @@ I enjoy working across different domains, from writing logic for hardware microc
 
 **Hardware & Robotics Engineering**
 * **ThingBot Controller System:** A comprehensive hardware engineering project involving Arduino microcontrollers. The system is programmed to read complex sensor data and manage precise DC motor and servo rotations based on custom logic.
-* **Competitive Robotics Logic:** Developing robust hardware rules and operational logic for competitive robot tournaments, working with specialized electronic equipment like the Quansheng TK11 spectrum analyzer.
+* **Competitive Robotics Logic:** Developing robust hardware rules and operational logic for competitive robot tournaments, working with specialized electronic equipment.
 
 ---
 
