@@ -88,4 +88,4 @@ I'm always open to discussing new ideas, collaborating on tech projects, or chat
 * **Email:** lthucduy@gmail.com
 * **GitHub:** [github.com/Mr-LouisLy](https://github.com/Mr-LouisLy)
 
-*Thanks for stopping by! I'm constantly learning and building, so stay tuned for more.*
+*The tech landscape never stops evolving, and neither do I. From writing core logic to deploying full-scale ecosystems, I'm always pushing the boundaries of what I can build next. Let's connect and create something epic!*
