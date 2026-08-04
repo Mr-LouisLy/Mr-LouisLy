@@ -10,31 +10,63 @@ Hi there! I'm a Can Tho-based tech innovator who combines deep-level engineering
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-176114?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-A33B1C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0F538A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-176114?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-A33B1C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-0F538A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
   <br>
 
   <!-- Hardcore "Flex" Languages -->
-  <img src="https://img.shields.io/badge/Rust-592116?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Haskell-453A52?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
-  <img src="https://img.shields.io/badge/x86_Assembly-2D2D2D?style=for-the-badge&logo=linux&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Prolog-63452B?style=for-the-badge" alt="Prolog" />
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-592116?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+  <a href="https://www.haskell.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Haskell-453A52?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/X86" target="_blank">
+    <img src="https://img.shields.io/badge/x86_Assembly-2D2D2D?style=for-the-badge&logo=linux&logoColor=white" alt="Assembly" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Prolog" target="_blank">
+    <img src="https://img.shields.io/badge/Prolog-63452B?style=for-the-badge" alt="Prolog" />
+  </a>
   <br>
   
   <!-- Hardware, Frameworks & AI -->
-  <img src="https://img.shields.io/badge/.JSX_/_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React/JSX" />
-  <img src="https://img.shields.io/badge/Arduino-005C5F?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Electron-2B3E50?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/.JSX_/_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React/JSX" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-005C5F?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Electron-2B3E50?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  </a>
   <br>
 
   <!-- Cloud, API & Tools -->
-  <img src="https://img.shields.io/badge/OpenAI-201445?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Gemini-413559?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://platform.openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-201445?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  </a>
+  <a href="https://aistudio.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gemini-413559?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API" />
+  </a>
+  <a href="https://github.com/Mr-LouisLy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
