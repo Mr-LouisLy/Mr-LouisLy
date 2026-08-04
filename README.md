@@ -10,24 +10,31 @@ Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietna
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%23-176114?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-A33B1C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F538A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+
+  <!-- Hardcore "Flex" Languages -->
+  <img src="https://img.shields.io/badge/Rust-592116?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Haskell-453A52?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/x86_Assembly-2D2D2D?style=for-the-badge&logo=linux&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Prolog-63452B?style=for-the-badge" alt="Prolog" />
   <br>
   
-  <!-- Hardware & Simulation -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Microsoft_Flight_Simulator-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="MSFS 2020" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <!-- Hardware, Frameworks & AI -->
+  <img src="https://img.shields.io/badge/.JSX_/_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React/JSX" />
+  <img src="https://img.shields.io/badge/Arduino-005C5F?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Electron-2B3E50?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   <br>
 
   <!-- Cloud, API & Tools -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/OpenAI-201445?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini-413559?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -40,10 +47,10 @@ I enjoy working across different domains, from writing logic for hardware microc
 | :--- | :--- |
 | **Languages** | Python, JavaScript, HTML, CSS, C++ (Arduino) |
 | **Software & Web** | Tkinter, Discord.py, Next-gen Web Architectures |
-| **Aviation Systems** | Aurora Client, IVAO/VATSIM ATC Operations, MSFS 2020 |
+| **Aviation Systems** | Aurora Client, IVAO/VATSIM ATC Operations|
 | **Data & AI** | OpenAI API, Gemini API Integrations |
 | **Hardware & Robotics** | Arduino IDE, ThingBot Controllers, Servo & DC Motor Logic |
-| **Tools & Platforms** | GitHub, Render, UptimeRobot, Navigraph |
+| **Tools & Platforms** | GitHub, Render|
 
 ---
 
