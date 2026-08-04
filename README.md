@@ -8,8 +8,10 @@ Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietna
 
 ### 📊 Louis's GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-LouisLy&show_icons=true&theme=onedark)](https://github.com/Mr-LouisLy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LouisLy&layout=compact&theme=onedark)](https://github.com/Mr-LouisLy)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-LouisLy&show_icons=true&theme=onedark&v=1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LouisLy&layout=compact&theme=onedark&v=1" height="165" alt="Top Languages" />
+</p>
 
 ---
 
@@ -38,7 +40,6 @@ I enjoy working across different domains, from writing logic for hardware microc
 
 **Aviation Simulation & Systems**
 * **AWOS (Automated Weather Observing System):** A specialized, high-performance desktop application engineered for virtual air traffic control, specifically tailored for Tan Son Nhat (VVTS) and other Vietnamese airports. Built with a modern UI (featuring a fully integrated dark mode) and packaged using Electron-builder for seamless auto-updates via GitHub Releases. The software actively pulls real-time METAR/weather data, manages manual runway configurations, and features advanced Euroscope synchronization to provide ATCs with critical, up-to-the-minute atmospheric conditions.
-* **Virtual Air Traffic Control:** Active operations on IVAO and VATSIM networks. Proficient in utilizing the Aurora client, involving custom coordinate coding, advanced route plotting, and real-time ATC communication.
 * **Advanced Flight Operations:** Extensive experience managing complex flight ops within Microsoft Flight Simulator 2020. I specialize in utilizing high-fidelity aircraft add-ons (like PMDG) and Navigraph aeronautical charts for realistic IFR operations.
 
 **Hardware & Robotics Engineering**
