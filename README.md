@@ -7,10 +7,9 @@ Hi there! I'm a passionate developer and tech innovator based in Can Tho, Vietna
 ---
 
 ### 📊 Louis's GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-LouisLy&show_icons=true&theme=onedark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LouisLy&layout=compact&theme=onedark" alt="Top Languages" height="165" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-LouisLy&show_icons=true&theme=onedark)](https://github.com/Mr-LouisLy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-LouisLy&layout=compact&theme=onedark)](https://github.com/Mr-LouisLy)
 
 ---
 
